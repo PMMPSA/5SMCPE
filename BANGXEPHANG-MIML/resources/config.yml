@@ -1,0 +1,31 @@
+---
+titleStat: '§c||§e■■■■■■■■■■■■■■■■■§c||||§e■■■■■■■■■■■■■■■■■|§e|'
+userNotExist: ' '
+
+
+
+# ปลั๊กอินนี้ถูกแก้ไขโดย CanalGamer
+# ปลั๊กอินถูกลบออกจาก INFOMCPE.RU แล้ว
+# ถ้าคุณต้องการนับจำนวนแล้วคุณจะได้รับแท็บ Y ในแถวด้านล่าง (coords)
+killTitle: '§l§e●§6●●§d●●●§a●●●●§r§d Bảng Xếp Hạng §aKill §l§a●●●●§d●●●§6●●§e●§r§d'
+killElement: '§b{player} đã §ckill§a được {value} người'
+killCount: 100 # nhận rank sát thủ
+
+deathTitle: '§l§e●§6●●§d●●●§a●●●●§r§d Bảng Xếp Hạng §aDeath §l§a●●●●§d●●●§6●●§e●§r§d'
+deathElement: '§b{player} đã §cchết§a được {value} lần'
+deathCount: 100 # nhận rank thánh nhọ
+
+breakTitle: '§l§e●§6●●§d●●●§a●●●●§r§d Bảng Xếp Hạng §aBreak Block §l§a●●●●§d●●●§6●●§e●§r§d'
+breakElement: '§b{player} đã §cphá§a được {value} block'
+breakCount: 500 # nhận rank kẻ phá hoại
+
+placeTitle: '§l§e●§6●●§d●●●§a●●●●§r§d Bảng Xếp Hạng §aPlace Block §l§a●●●●§d●●●§6●●§e●§r§d'
+placeElement: '§b{player} đã §cđặt§a được {value} block'
+placeCount: 200 # nhận rank đặt chùa
+
+# ช่วงเวลาของการอัปเดตอัตโนมัติ ค่าเริ่มต้น: 300 บาท
+# ในวินาที
+autoUpdate: 10
+
+coords: []
+...

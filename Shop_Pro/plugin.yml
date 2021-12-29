@@ -1,0 +1,11 @@
+name: ShopPro
+version: 2.4.7
+api: 2.0.0
+main: ShopPro\shoppro
+description: Plugin ShopPro
+author: AmGM
+commands:
+  shop:
+   description: Shop no UI
+   permission: shop.noui
+   default: true

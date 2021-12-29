@@ -1,0 +1,69 @@
+---
+version: 1.4.0
+default-factions-plugin: FactionsPro
+groups:
+  Owner:
+    chat: '&8[&2{fac_name}&8] &7•→…&aOwner&7…←• &e{display_name} &b→ &7{msg}'
+    nametag: '&8[&2{fac_name}&8] &7•→…&aOwner&7…←• &e{display_name}'
+    worlds: []
+  Co-Owner:
+    chat: '&8[&2{fac_name}&8] &7•→…&bCo-Owner&7…←• &e{display_name} &b→ &7{msg}'
+    nametag: '&8[&2{fac_name}&8] &7•→…&bCo-Owner&7…←• &e{display_name}'
+    worlds: []
+  OP:
+    chat: '&8[&2{fac_name}&8] &7•→…&cOP&7…←• &e{display_name} &b→ &7{msg}'
+    nametag: '&8[&2{fac_name}&8] &7•→…&cOP&7…←• &e{display_name}'
+    worlds: []
+  Admin:
+    chat: '&8[&2{fac_name}&8] &7•→…&dAdmin&7…←• &e{display_name} &b→ &7{msg}'
+    nametag: '&8[&2{fac_name}&8] &7•→…&dAdmin&7…←• &e{display_name}'
+    worlds: []
+  Builder:
+    chat: '&8[&2{fac_name}&8] &7•→…&eBuilder&7…←• &e{display_name} &b→ &7{msg}'
+    nametag: '&8[&2{fac_name}&8] &7•→…&eBuilder&7…←• &e{display_name}'
+    worlds: []
+  Police:
+    chat: '&8[&2{fac_name}&8] &7•→…&fPolice&7…←• &e{display_name} &b→ &7{msg}'
+    nametag: '&8[&2{fac_name}&8] &7•→…&fPolice&7…←• &e{display_name}'
+    worlds: []
+  Helper:
+    chat: '&8[&2{fac_name}&8] &7•→…&1Helper&7…←• &e{display_name} &b→ &7{msg}'
+    nametag: '&8[&2{fac_name}&8] &7•→…&1Helper&7…←• &e{display_name}'
+    worlds: []
+  YouTuber:
+    chat: '&8[&2{fac_name}&8] &7•→…&4You&fTuber&7…←• &e{display_name} &b→ &7{msg}'
+    nametag: '&8[&2{fac_name}&8] &7•→…&4You&fTuber&7…←• &e{display_name}'
+    worlds: []
+  Member:
+    chat: '&8[&2{fac_name}&8] &7•→…&9Member&7…←• &e{display_name} &b→ &7{msg}'
+    nametag: '&8[&2{fac_name}&8] &7•→…&9Member&7…←• &e{display_name}'
+    worlds: []
+  VIPI:
+    chat: '&8[&2{fac_name}&8] &7•→…&6VIP&aI&7…←• &e{display_name} &b→ &7{msg}'
+    nametag: '&8[&2{fac_name}&8] &7•→…&6VIP&aI&7…←• &e{display_name}'
+    worlds: []
+  VIPII:
+    chat: '&8[&2{fac_name}&8] &7•→…&6VIP&aII&7…←• &e{display_name} &b→ &7{msg}'
+    nametag: '&8[&2{fac_name}&8] &7•→…&6VIP&aII&7…←• &e{display_name}'
+    worlds: []
+  VIPIII:
+    chat: '&8[&2{fac_name}&8] &7•→…&6VIP&aIII&7…←• &e{display_name} &b→ &7{msg}'
+    nametag: '&8[&2{fac_name}&8] &7•→…&6VIP&aIII&7…←• &e{display_name}'
+    worlds: []
+  Op:
+    nametag: '&8&l[Op]&f&r {display_name}'
+    chat: '§a»{fac_rank}« §r»{fac_name}« §e»♪Op♪ '
+  Adminworlds:
+    sb:
+      chat: §1[§b•§eAdmin§b•§1]
+  L-Admin:
+    chat: '[{fac_name}] •-> §b§l ✌...L-Admin... ✌§r<-• {display_name} → §6 {msg}'
+    nametag: '&8&l[L-Admin]&f&r {display_name}'
+  MemberS:
+    chat: §6[{fac_name}]§e•=§a...§fMęmbęr§6ß§a...§e=• §f{display_name} §6»- {msg}
+      -«
+    nametag: §6[{fac_rank}]§e•=§a...§fMęmbęr§6ß§a...§e=• §f{display_name}
+  Guest:
+    nametag: '&8&l[Guest]&f&r {display_name}'
+    chat: '&8&l[Guest]&f&r {display_name} &7> {msg}'
+...

@@ -1,0 +1,23 @@
+---
+prefix: "§a..."
+suffix: ""
+time: 80
+sendmessage-format: "&b-=-=[{PREFIX}]=-=- {SUFFIX} &a{SENbER}&e>&f {MESSAGE}"
+datetime-format: "H:i:s"
+broabcast-enabled: true
+messages:
+ - "{PREFIX}§c Tính năng shop đã được thay đổi§a, §6hãy sử dụng §b/shop"
+ - "{PREFIX}§6 "
+ - "{PREFIX}§b Để mua đồ§d tại chợ đen§c hãy dùng lệnh /muado"
+ - "{PREFIX}§d Để nhận quà hãy §avote §ctại§a bit.do/dbpe-vote"
+ - "{PREFIX}§6 Để trở thành người §cquyền lực§a thì còn chờ gì mà không §l§bNạp Thẻ§r§c,§d khi vào server §amọi người §cđều chú ý đến bạn§e.§d Kể cả khi chat nữa"
+ - "{PREFIX}§a Nhà nghèo hết tiền rồi!§c dùng lệnh /veso đi"
+ - "{PREFIX}§a Để trade đồ bạn §chãy sử dụng§6 /doi"
+ - "{PREFIX}§c Nếu là §eVIP§b hãy sử dụng §c/kiteffect§a để chiếm lĩnh §ePVP"
+ - "{PREFIX}§6 Để §cquay tết§a hãy dùng lệnh /quaytet"
+popup-time: 150
+popup-duration: 5
+senbpopup-format: "&a{SENbER}&e>>&f {MESSAGE}"
+popup-broabcast-enabled: false
+popups:
+...

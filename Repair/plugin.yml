@@ -1,0 +1,9 @@
+name: Repair
+main: AmGM\Repair
+version: 3.0
+author: AmGM
+api: [2.0.0]
+commands:
+ hand-fix:
+  permission: ptk.repair
+  description: "Sửa đồ đang cầm trên tay"

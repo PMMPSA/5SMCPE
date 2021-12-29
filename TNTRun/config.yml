@@ -1,0 +1,22 @@
+---
+prefix: §8[§eTNT§cRun§8]
+time: 1200
+start: 60
+arenas:
+  tnt2:
+    name: tnt2
+    time: 1200
+    start: 60
+    players: []
+    maxPlayers: 10
+    minPlayers: 2
+    spawn:
+      x: -11
+      "y": 63
+      z: -19
+  lobby:
+    spawn:
+      x: 174
+      "y": 6
+      z: 216
+...

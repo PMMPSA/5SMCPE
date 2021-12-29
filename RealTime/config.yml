@@ -1,0 +1,30 @@
+---
+Time changes: 0
+Tell time: true
+Tell time interval in minuts: 5
+HUB: 6
+nether: 3
+ender: 3
+Shop: 3
+sw: 3
+skyblock: 3
+Arena: 3
+sb: 0
+"01": 3
+"02": 3
+"03": 3
+HUB-tick: 6001
+4: 3
+sur: 3
+ice_cream: 3
+lobby: 0
+h: 3
+lobby-tick: 6001
+pvp: 0
+sleff: 3
+world: 3
+flat: 6
+flat-tick: 6001
+Lobby+: 6
+Lobby+-tick: 6001
+...

@@ -1,0 +1,6 @@
+---
+enable: "true"
+economy-plugin: EconomyAPI
+money: 100
+message: You earn {money} coins
+...

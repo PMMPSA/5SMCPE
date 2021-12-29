@@ -1,0 +1,17 @@
+name: Bảng_Xếp_Hạng
+main: AlexBrin\aTopPlayers
+version: 1
+api: 2.0.0
+author: CanalGamer
+
+commands:
+  topbxh:
+    default: op
+    description: คำสั่งมี /topbxh
+    permission: atp.use
+permissions:
+  atp:
+    default: op
+    chidlren:
+      atp.use:
+        default: op

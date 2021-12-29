@@ -1,0 +1,10 @@
+#KillMoney v0.1 Config File
+#
+#Economy Plugin. Options: PocketMoney, Economy
+Economy-Plugin: Economy
+#
+#Money to Killer
+Money: 100
+#
+#Message to Killer
+Message: "§f•§a Bạn đã nhận được &b@coins VND  !"

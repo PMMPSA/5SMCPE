@@ -1,0 +1,9 @@
+name: DT
+version: 0.1BETA
+main: DT\DT
+author: AMGM
+api: 2.0.0
+commands:
+ school:
+  usage: hj
+  default: true

@@ -1,0 +1,15 @@
+name: GiftCode
+main: PTK\GiftCode\Main
+version: 2.0
+author: PTK-KienPham
+api: [2.0.0, 3.0.0]
+description: Plugin GiftCode bởi PTK-KienPham
+commands: 
+  gcodebeta:
+   description: Sử dụng code.
+   default: op
+   permission: gen.code.beta
+  code:
+    description: Tạo code mới.
+    usage: §c•->§a Để nhập code hãy dùng §d/code§6 nhan§a [code]
+    default: true

@@ -1,0 +1,52 @@
+# English translations, by Sandertv.
+
+# English:
+---
+commands:
+  errors:
+    no-permission: "§b Nguyễn Đông Quý:§d Bạn éo có quyền :>"
+    console-use: "Vào game đi đã chú em"
+    radius-not-numeric: "§c Cái con số hơi bị sai sai"
+    radius-too-big: "§c Cái nhà cũng sai sai nốt"
+    no-target-found: "§cBlock âu -_-"
+    no-valid-block: "§c Lại sai nữa rồi :v"
+    shape-not-found: "§aKhong tồn tại type đó"
+    no-modifications: "No modifications were found to undo."
+    paste-not-found: "That paste type could not be found."
+    clone-not-found: "That clone type could not be found."
+    name-not-set: "No valid name has been given."
+    template-not-existing: "A template with that name does not exist."
+    preset-already-exists: "That preset already exists."
+    preset-doesnt-exist: "That preset doesn't exist."
+  succeed:
+    default: "Successfully launched the shape at the location looked at."
+    undo: "§a Undo thành công, đừng có hối hận"
+    language: "Language has been changed successfully."
+    paste: "Pasted the clone successfully."
+    clone: "Area has been cloned and copied successfully."
+    brush:
+      reset: "Brush has been reset successfully."
+    preset:
+      name: "Preset creation process started. Type a name in the chat,"
+      cancel: "or type 'cancel' to cancel the process."
+      canceled: "Preset creation has been canceled."
+
+brushwand:
+  disable: "Brushwand has been disabled."
+  enable: "Brushwand has been enabled."
+
+brush:
+  shape: "Shape: "
+  type: "Type: "
+  blocks: "Blocks: "
+  size: "Size: "
+  perfect: "Perfect: "
+  obsolete: "Obsolete: "
+  height: "Height: "
+  gravity: "Gravity: "
+  decrement: "Decrement: "
+  biome: "Biome: "
+  hollow: "Hollow: "
+  preset: "Preset: "
+  tree: "Tree: "
+...

@@ -1,0 +1,232 @@
+---
+-12:4:221:lobby:
+  x: -12
+  "y": 4
+  z: 221
+  level: lobby
+  cost: 120
+  item: 4
+  itemName: Cobblestone
+  meta: 0
+  amount: 64
+-6:4:224:lobby:
+  x: -6
+  "y": 4
+  z: 224
+  level: lobby
+  cost: 450
+  item: 17
+  itemName: Oak Wood
+  meta: 0
+  amount: 64
+-6:4:225:lobby:
+  x: -6
+  "y": 4
+  z: 225
+  level: lobby
+  cost: 800
+  item: 41
+  itemName: Gold Block
+  meta: 0
+  amount: 64
+-6:4:227:lobby:
+  x: -6
+  "y": 4
+  z: 227
+  level: lobby
+  cost: 1200
+  item: 133
+  itemName: Emerald Block
+  meta: 0
+  amount: 64
+-6:4:228:lobby:
+  x: -6
+  "y": 4
+  z: 228
+  level: lobby
+  cost: 500
+  item: 42
+  itemName: Iron Block
+  meta: 0
+  amount: 64
+-6:4:230:lobby:
+  x: -6
+  "y": 4
+  z: 230
+  level: lobby
+  cost: 850
+  item: 57
+  itemName: Diamond Block
+  meta: 0
+  amount: 64
+-6:4:231:lobby:
+  x: -6
+  "y": 4
+  z: 231
+  level: lobby
+  cost: 300
+  item: 152
+  itemName: Block of Redstone
+  meta: 0
+  amount: 64
+-6:4:233:lobby:
+  x: -6
+  "y": 4
+  z: 233
+  level: lobby
+  cost: 350
+  item: 22
+  itemName: Lapis Lazuli Block
+  meta: 0
+  amount: 64
+0:4:224:lobby:
+  x: 0
+  "y": 4
+  z: 224
+  level: lobby
+  cost: 700
+  item: 103
+  itemName: Melon Block
+  meta: 0
+  amount: 64
+6:4:224:lobby:
+  x: 6
+  "y": 4
+  z: 224
+  level: lobby
+  cost: 800
+  item: 81
+  itemName: Cactus
+  meta: 0
+  amount: 64
+12:4:224:lobby:
+  x: 12
+  "y": 4
+  z: 224
+  level: lobby
+  cost: 750
+  item: 86
+  itemName: Pumpkin
+  meta: 0
+  amount: 64
+12:4:221:lobby:
+  x: 12
+  "y": 4
+  z: 221
+  level: lobby
+  cost: 2000
+  item: 338
+  itemName: Sugar Cane
+  meta: 0
+  amount: 64
+6:4:221:lobby:
+  x: 6
+  "y": 4
+  z: 221
+  level: lobby
+  cost: 1500
+  item: 269
+  itemName: Wooden Shovel
+  meta: 0
+  amount: 64
+-12:5:244:lobby:
+  x: -12
+  "y": 5
+  z: 244
+  level: lobby
+  cost: 900
+  item: 18
+  itemName: Oak Leaves
+  meta: 0
+  amount: 64
+-13:5:243:lobby:
+  x: -13
+  "y": 5
+  z: 243
+  level: lobby
+  cost: 900
+  item: 18
+  itemName: Oak Leaves
+  meta: 0
+  amount: 64
+0:4:221:lobby:
+  x: 0
+  "y": 4
+  z: 221
+  level: lobby
+  cost: 70
+  item: 2
+  itemName: Grass
+  meta: 0
+  amount: 64
+0:4:225:lobby:
+  x: 0
+  "y": 4
+  z: 225
+  level: lobby
+  cost: 450
+  item: 17
+  itemName: Spruce Wood
+  meta: 1
+  amount: 64
+0:4:227:lobby:
+  x: 0
+  "y": 4
+  z: 227
+  level: lobby
+  cost: 450
+  item: 17
+  itemName: Birch Wood
+  meta: 2
+  amount: 64
+0:4:228:lobby:
+  x: 0
+  "y": 4
+  z: 228
+  level: lobby
+  cost: 450
+  item: 17
+  itemName: Jungle Wood
+  meta: 3
+  amount: 64
+0:4:230:lobby:
+  x: 0
+  "y": 4
+  z: 230
+  level: lobby
+  cost: 450
+  item: 162
+  itemName: Acacia Wood
+  meta: 0
+  amount: 64
+0:4:231:lobby:
+  x: 0
+  "y": 4
+  z: 231
+  level: lobby
+  cost: 450
+  item: 162
+  itemName: Dark Oak Wood
+  meta: 1
+  amount: 64
+12:4:228:lobby:
+  x: 12
+  "y": 4
+  z: 228
+  level: lobby
+  cost: 150
+  item: 295
+  itemName: Wheat Seeds
+  meta: 0
+  amount: 64
+12:4:234:lobby:
+  x: 12
+  "y": 4
+  z: 234
+  level: lobby
+  cost: 50
+  item: 260
+  itemName: Apple
+  meta: 0
+  amount: 25
+...

@@ -1,0 +1,6 @@
+name: PlayerSize
+version: 0.3
+main: bay\slayt\Main
+api: [3.0.0]
+author: Bay Slayt
+    

@@ -1,0 +1,11 @@
+name: Eff
+main: Eff1\AmGM1\Main
+version: 2.0
+author: AmGM
+api: [2.0.0, 3.0.0]
+description: Effect FCA
+commands: 
+  kiteffect:
+   description: KitEffect Vip
+   default: op
+   permission: kiteffect.vip

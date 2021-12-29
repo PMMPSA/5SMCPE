@@ -1,0 +1,1 @@
+§r§e Họ và tên:§c ".$sender->getName()."\n§dMôn thi:§6 ".$q." ".$w." §c(tự điền)\n§aĐiểm:\n§bNhận xét:\n§l§cI.§a Bài làm:\n§c1.§e".$e."\n§c2.§e".$r."\n§c3.§e".$t."\n§c4.§e".$y."\n§c5.§e".$u."

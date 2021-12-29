@@ -1,0 +1,12 @@
+name: Trade
+version: 2.4.7
+api: 2.0.0
+main: Trade\trade
+description: Plugin ShopPro v2
+author: AmGM
+commands:
+  eat:
+   description: no UI
+   permission: kkkk.ii
+   defalut: true
+   usage: HAY THEM /eat help

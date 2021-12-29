@@ -1,0 +1,12 @@
+name: Rules
+author: hg
+api: 2.0.0
+main: RL\rl
+version: 1
+commands:
+   luatle:
+      description: Đọc luật lệ SPC
+      permission: rule.cmd
+permissions:
+    rule.cmd:
+        default: true
